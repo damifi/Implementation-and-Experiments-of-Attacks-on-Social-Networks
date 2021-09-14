@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BachelorThesis", "BachelorThesis.pyproj", "{524C48C7-3DA5-437D-AB49-2D8B641245A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524C48C7-3DA5-437D-AB49-2D8B641245A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524C48C7-3DA5-437D-AB49-2D8B641245A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEAE3B5-C70D-400B-9AD1-05571A2D8AEA}
+	EndGlobalSection
+EndGlobal
