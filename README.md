@@ -22,3 +22,5 @@ The results are written to .txt files in the same directory, after the attacks a
 For testing:
 mygraph.txt is required to be in the same folder as Testing.py to perform the tests
 (python -m unittest -v Testing.py)
+
+I used Python 3.9, Visual Studio 2019 on Windows 10 for this project.
